@@ -122,7 +122,7 @@ An interactive Power BI dashboard was created to analyze sales performance.
 
 ### Power BI Dashboard
 
-![Power BI Dashboard]("C:\Users\hp\Downloads\AdventureWorks Sales Performance Analysis\Screenshot\PowerBI.png")
+![Power BI Dashboard](Screenshots/Power_BI_dashboard.png)
 
 ## 📈 Tableau Dashboard
 
