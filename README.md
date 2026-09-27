@@ -122,7 +122,7 @@ An interactive Power BI dashboard was created to analyze sales performance.
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](Screenshots/PowerBI.png)
+![Power BI Dashboard](Screenshot/PowerBI.png)
 
 ## 📈 Tableau Dashboard
 
@@ -139,7 +139,7 @@ A Tableau dashboard was developed for interactive sales performance analysis.
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](Screenshots/Tableau.png)
+![Tableau Dashboard](Screenshot/Tableau.png)
 
 ## 💡 Business Analysis
 
