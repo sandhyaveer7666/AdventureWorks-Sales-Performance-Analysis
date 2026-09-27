@@ -81,7 +81,9 @@ SELECT
     SUM(SalesAmount) AS Total_Sales
 FROM Sales;
 ```
+### SQL
 
+![SQL](Screenshot/SQl.png)
 ## 📗 Excel Analysis
 
 Excel was used for data cleaning, analysis, and business reporting.
@@ -98,9 +100,9 @@ Excel was used for data cleaning, analysis, and business reporting.
 - Sales Analysis
 - Profit Analysis
 
-  ### Power BI Dashboard
+  ### Excel Dashboard
 
-![Power BI Dashboard](Screenshot/Excel.png)
+![Excel Dashboard](Screenshot/Excel.png)
 
 ## 📊 Power BI Dashboard
 
