@@ -98,6 +98,10 @@ Excel was used for data cleaning, analysis, and business reporting.
 - Sales Analysis
 - Profit Analysis
 
+  ### Power BI Dashboard
+
+![Power BI Dashboard](Screenshot/Excel.png)
+
 ## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was created to analyze sales performance.
