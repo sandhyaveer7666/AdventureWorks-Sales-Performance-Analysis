@@ -83,7 +83,7 @@ FROM Sales;
 ```
 ### SQL
 
-![SQL](Screenshot/SQl.png)
+![SQL](Screenshot/SQL.png)
 ## 📗 Excel Analysis
 
 Excel was used for data cleaning, analysis, and business reporting.
